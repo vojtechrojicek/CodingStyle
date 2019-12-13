@@ -1,5 +1,5 @@
 1. Na psaní složených závorek používáme [Allman](https://en.wikipedia.org/wiki/Indentation_style#Allman_style) styl. Každou závorku na samostatný řádek. Vyjímku povolujeme u vícenásobných `using` bloků.
-2. Odsayujeme pomocí 4 mezer (nepoužíváme tab).
+2. Odsazujeme pomocí 4 mezer (nepoužíváme tab).
 3. Používáme `camelCase` pro interní a privátní fieldy a kde je to možné, použijeme `readonly`. Pokud je field siatický, klíčové slovo `readonly` je po `static` (tzn. `static readonly` ne `readonly static`). Veřejné členy nepoužíváme, pokud to není nutné a píšeme je `PascalCasing` bez prefixů.
 ```
 private ProjectDto project;
