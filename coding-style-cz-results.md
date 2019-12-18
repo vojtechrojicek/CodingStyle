@@ -1,6 +1,6 @@
 Diky vsem co poslali svuj nazor.  
 * Co nejdrive se pokusim prepsat tyto body a umistit vysledek nekam kam k tomu mame pristup.
-* Mimo to vytvorim soubor `.editor.config`, ktery by nam mel vetsinu techto bodu pomoci hlidat ve VS.   
+* Mimo to vytvorim soubor `.editorconfig`, ktery by nam mel vetsinu techto bodu pomoci hlidat ve VS.   
 * Do noveho projektu Itixis ho pridame a budeme snim pracovat. V kazdem pripadnem novem projektu bude taky.
 * Do starych projektu (Herkules, LTD) ho davat nebudeme nebot bychom se z message/warningu zblaznili. 
 * Nicmene piste podle techto bodu nove veci, pripadne pokud se budou upravovat stare tak postupne (s rozumem) refaktorovat.
